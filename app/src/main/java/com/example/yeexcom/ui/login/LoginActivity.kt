@@ -18,6 +18,7 @@ import android.widget.Toast
 import com.example.yeexcom.MainActivity
 
 import com.example.yeexcom.R
+import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() {
 
